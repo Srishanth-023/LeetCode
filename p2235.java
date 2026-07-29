@@ -10,7 +10,7 @@ class Solution {
         while (num2 != 0){
             int carry = num1 & num2; // Where bits are 1
             num1 = num1 ^ num2; // Sum without carrying
-            num2 = carry << 1; // Carry belong to next position, so shift left
+            num2 = carry << 1; // Carry belong to next position, so shift left 
         }
 
         return num1;
