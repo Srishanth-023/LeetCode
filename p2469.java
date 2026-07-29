@@ -19,7 +19,6 @@ class Solution {
 
         // return tempConvList;
 
-
         // Primitive Array
         double kelvin = celsius + 273.15;
         double fahrenheit = (celsius * (9.0 / 5.0)) + 32;
