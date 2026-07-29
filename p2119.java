@@ -16,7 +16,6 @@ class Solution {
         // }
 
         
-
         // General approach
         if (num == 0){
             return true;
