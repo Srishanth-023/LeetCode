@@ -22,7 +22,6 @@ class Solution {
         // return pdt - sum;
 
 
-
         // General approach
         int num;
         while (n > 0){
